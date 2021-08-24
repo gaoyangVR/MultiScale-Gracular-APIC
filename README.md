@@ -7,4 +7,4 @@ Operating environment:
 Windows 10;
 Visual Studio 2019;
 Cuda 11.1.
-I have included all the other external libraries or header files need already, so no additional configuration is required.
+I have included all the other external libraries or header files need already, so no additional configuration is required. 
